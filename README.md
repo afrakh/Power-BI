@@ -1,1 +1,1 @@
-This repository contains my assignments, dashboards, and learning timeline for BI tools and techniques.
+This repository showcases the Power BI reports and dashboards I developed during my learning journey in business intelligence and data visualization.
